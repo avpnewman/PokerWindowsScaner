@@ -102,6 +102,7 @@ public class Main {
             }
         }
         System.out.println("200 dots sum = "+nicknamesum);
+        System.out.println("another dots sum = "+nicknamesumelse);
 
 
 
